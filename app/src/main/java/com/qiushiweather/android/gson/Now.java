@@ -1,6 +1,4 @@
-package com.coolweather.android.gson;
-
-import android.test.MoreAsserts;
+package com.qiushiweather.android.gson;
 
 import com.google.gson.annotations.SerializedName;
 

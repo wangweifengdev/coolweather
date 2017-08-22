@@ -1,4 +1,4 @@
-package com.coolweather.android.gson;
+package com.qiushiweather.android.gson;
 
 /**
  * Created by Administrator on 2017/8/22.

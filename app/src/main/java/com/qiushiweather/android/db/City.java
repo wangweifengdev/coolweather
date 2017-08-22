@@ -1,10 +1,6 @@
-package com.coolweather.android.db;
+package com.qiushiweather.android.db;
 
 import org.litepal.crud.DataSupport;
-
-/**
- * Created by Administrator on 2017/8/21.
- */
 
 public class City extends DataSupport {
     private int id;

@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.qiushiweather.android;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
